@@ -1,7 +1,7 @@
 ## Personal Website
 
 ### 📝 Description
-A website project built for Introduction to Computing. While I had some prior experience with HTML/CSS, this project 
+A basic website project. While I had some prior experience with HTML/CSS, this project 
 helped me structure my knowledge properly and learn professional practices like hosting and project organization.
 
 ### 🚀 Features
