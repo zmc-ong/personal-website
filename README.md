@@ -4,23 +4,16 @@
 A website project built for Introduction to Computing. While I had some prior experience with HTML/CSS, this project 
 helped me structure my knowledge properly and learn professional practices like hosting and project organization.
 
-### 📄 Pages Included
-- 🏠 **Home** - Landing page with introduction
-- 👤 **About Me** - Personal background and CS journey
-- 🖼️ **Gallery** - Sample projects
-- 🎮 **Hobbies** - What I do when not coding
-- 💭 **Reflection** - My thoughts on the term
-
-### 🛠️ Technologies
-- HTML5
-- CSS (inline and internal styling)
-- Netlify (hosting platform)
-
 ### 🚀 Features
 - Multi-page navigation
 - Design basics (although it's admittedly barebones)
 - Custom color scheme
 - Image gallery layout
+
+### 🛠️ Technologies
+- HTML5
+- CSS (inline and internal styling)
+- Netlify (hosting platform)
 
 ### 📚 What I Learned
 - How to structure multi-page websites properly
