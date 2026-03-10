@@ -1,13 +1,13 @@
 ## Personal Website
 
 ### 📝 Description
-A website project built for CS 101 (Introduction to Computing). While I had some prior experience with HTML/CSS, this project 
+A website project built for Introduction to Computing. While I had some prior experience with HTML/CSS, this project 
 helped me structure my knowledge properly and learn professional practices like hosting and project organization.
 
 ### 📄 Pages Included
 - 🏠 **Home** - Landing page with introduction
 - 👤 **About Me** - Personal background and CS journey
-- 🖼️ **Gallery** - Photos and project screenshots
+- 🖼️ **Gallery** - Sample projects
 - 🎮 **Hobbies** - What I do when not coding
 - 💭 **Reflection** - My thoughts on the term
 
