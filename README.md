@@ -18,7 +18,7 @@ helped me structure my knowledge properly and learn professional practices like 
 
 ### 🚀 Features
 - Multi-page navigation
-- Design basics
+- Design basics (although it's admittedly barebones)
 - Custom color scheme
 - Image gallery layout
 
