@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Personal Website</title>
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+    * {
+      margin: 10px;
+      text-align: center;
+      font-family: 'Roboto', Sans-Serif;
+      background-color: #BE9FE1;
+    }
+    .title {
+      font-family: "Indie Flower", Sans-Serif;
+      color: #C9B6E4;
+      background-color: #F1F1F6;
+      border-radius: 25px;
+      padding: 10px;
+    }
+    #gallery {
+      display: inline-block;
+      text-align: center;
+      background-color: #E1CCEC;
+    }
+    .gallery-item {
+      display: inline-block;
+      margin: 10px;
+      border: 2px solid #ccc;
+      border-radius: 5px;
+      overflow: hidden;
+      background-color: #fff;
+      width: 220px;
+    }
+    .gallery-item iframe {
+      display: block;
+      width: 100%;
+      height: 150px;
+      border: none;
+    }
+    .caption {
+      padding: 10px;
+      font-size: 14px;
+      background-color: #f9f9f9;
+    }
+    a {
+      text-decoration: none;
+      color: #F1F1F6;
+    }
+    </style>
+  </head>
+  <body>
+      <h1 class="title">Gallery</h1>
+      <div id="gallery">
+        <div class="gallery-item">
+          <iframe src="https://drive.google.com/file/d/1ByDo908Vu7a4wDhydUjpe3tzILRh-tpN/preview" allowfullscreen></iframe>
+          <div class="caption">Rainbow Flower - Entry for the Festival of Learning Mandala Contest</div>
+        </div>
+        <div class="gallery-item">
+          <iframe src="https://drive.google.com/file/d/1y2Dfy64bIN6BGJwjd9Avp2cCxhR_epcv/preview" allowfullscreen></iframe>
+          <div class="caption">Ordering System - An ordering system made using Java that originally used C++.</div>
+        </div>
+        <div class="gallery-item">
+          <iframe src="https://drive.google.com/file/d/1kD3TcUMwCqgKQAt2SqhCZpeMwZjHIX3G/preview" allowfullscreen></iframe>
+          <div class="caption">Presentation - A presentation about me.</div>
+        </div>
+      </div>
+      <footer>
+        <a href="index.html">Back to the index</a>
+      </footer>
+  </body>
+</html>
